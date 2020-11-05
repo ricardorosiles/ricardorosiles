@@ -18,15 +18,15 @@
 ---
 
 <h2 align="center"> 👨‍💻 Tools used: </h2>
-  I am studying at the Technological University of Nezahualcoyotl, I am currently 23 years old, I have been doing Backend in the Javascript programming language for 4 years and half a year working with React Js (Hooks) in the frontend part, for the development administration part I have worked with the GitLab, Trello and Taiga tool, I am currently updating my portfolio.
+<p align="center">
+I am studying at the Technological University of Nezahualcoyotl, I am currently 23 years old, I have been doing Backend in the Javascript programming language for 4 years and half a year working with React Js (Hooks) in the frontend part, for the development administration part I have worked with the GitLab, Trello and Taiga tool, I am currently updating my portfolio.
 
 I have developed Chat-Bots with their own APIs for Facebook and Telegram, Discord, Twitch.
 
 I have been interested in learning Flutter and Dart, to develop mobile applications for both IOS and Android.
 
 Later you will find the tools that I have used throughout my career.
-
-<p align="center">
+</p>
 
 <a href="#">
 <img src = "https://img.shields.io/badge/-Visual Studio code-007ACC?style=flat&logo=visual-studio-code" width="auto" height="25">
