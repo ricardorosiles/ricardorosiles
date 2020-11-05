@@ -2,13 +2,15 @@
 
 <!--
 **ricardorosiles/ricardorosiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# Presentation
-Backend and Frontend Developer
- ![alt text](https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif) 
 
 
 
 Here are some ideas to get you started:
+
+
+# Presentation
+Backend and Frontend Developer
+![alt text](https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif) 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
