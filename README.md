@@ -14,10 +14,6 @@
 <a href="#"><img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"></a>
 <h2 align="center">Biography</h2>
 
-
----
-
-<h2 align="center"> 👨‍💻 Tools used: </h2>
 <p align="justify">
 I am studying at the Technological University of Nezahualcoyotl, I am currently 23 years old, I have been doing Backend in the Javascript programming language for 4 years and half a year working with React Js (Hooks) in the frontend part, for the development administration part I have worked with the GitLab, Trello and Taiga tool, I am currently updating my portfolio.
   
@@ -27,6 +23,11 @@ I have been interested in learning Flutter and Dart, to develop mobile applicati
 
 Later you will find the tools that I have used throughout my career.
 </p>
+
+---
+
+<h2 align="center"> 👨‍💻 Tools used: </h2>
+
 
 <a href="#">
 <img src = "https://img.shields.io/badge/-Visual Studio code-007ACC?style=flat&logo=visual-studio-code" width="auto" height="25">
