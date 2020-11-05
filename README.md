@@ -3,7 +3,7 @@
 ![alt text](https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif) 
 <h3 align="center">Backend and Frontend developer |  Javascript Lover   </h3>
 <div align="center">
-<img src="https://www.komarcalabs.com/images/mern.png" width="100px">
+<img src="https://www.komarcalabs.com/images/mern.png" width="1100px">
   </div>
 
 <div align="center">
