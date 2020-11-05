@@ -1,7 +1,11 @@
 
 # Hi, I'm Brayan Ricardo Rosiles Sanchez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ![alt text](https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif) 
-<h3 align="center">Backend and Frontend developer |  Javascript Lover  <img src="https://www.komarcalabs.com/images/mern.png" width="75px"> </h3>
+<h3 align="center">Backend and Frontend developer |  Javascript Lover   </h3>
+<div align="center">
+<img src="https://www.komarcalabs.com/images/mern.png" width="100px">
+  </div>
+
 <div align="center">
   <h3 align="center">You can find me in<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
