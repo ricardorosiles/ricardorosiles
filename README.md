@@ -1,10 +1,7 @@
 
 # Hi, I'm Brayan Ricardo Rosiles Sanchez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Backend and Frontend Developer
 ![alt text](https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif) 
-
-
-<h3 align="center">Web Developer | | JavaScript Lover</h3>
+<h3 align="center">Backend and frontend developer |  Javascript Lover </h3>
 <div align="center">
   <h3 align="center">You can find me in<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
@@ -20,8 +17,18 @@ Backend and Frontend Developer
 
 ---
 
-<h2 align="center">👨‍💻 Languages, Skills and Tools:</h2>
+<h2 align="center"> 👨‍💻 Tools used: </h2>
+
+
 <p align="center">
+  I am studying at the Technological University of Nezahualcoyotl, I am currently 23 years old, I have been doing Backend in the Javascript programming language for 4 years and half a year working with React Js (Hooks) in the frontend part, for the development administration part I have worked with the GitLab, Trello and Taiga tool, I am currently updating my portfolio.
+
+I have developed Chat-Bots with their own APIs for Facebook and Telegram, Discord, Twitch.
+
+I have been interested in learning Flutter and Dart, to develop mobile applications for both IOS and Android.
+
+Later you will find the tools that I have used throughout my career.
+  </p>
 
 <a href="#">
 <img src = "https://img.shields.io/badge/-Visual Studio code-007ACC?style=flat&logo=visual-studio-code" width="auto" height="25">
