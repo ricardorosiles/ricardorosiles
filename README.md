@@ -1,17 +1,18 @@
 
 # Hi, I'm Brayan Ricardo Rosiles Sanchez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ![alt text](https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif) 
-<h3 align="center">Backend and Frontend developer |  Javascript Lover   </h3>
-<div align="center">
-<img src="https://www.komarcalabs.com/images/mern.png" width="1100px">
-  </div>
+<h3 align="center">Backend and Frontend developer |  Javascript Lover</h3>
 
 <div align="center">
   <h3 align="center">You can find me in<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/andraderik/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-<a href="https://github.com/Andradeerik"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="Github"></a> &nbsp;&nbsp;
+<a href="https://github.com/ricardorosiles"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/github.svg" width="30px" alt="Github">
+  </a> &nbsp;&nbsp;
+<a href="https://my.indeed.com/p/brayanr-91f5jej"><img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_8029848b680a818792cf82a100dbb257/indeed-assessments.jpeg" width="30px" alt="Indeed">
+  </a> &nbsp;&nbsp;
+  
 </p>
 
 
