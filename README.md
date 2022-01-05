@@ -3,6 +3,8 @@
 ![alt text](https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif) 
 <h3 align="center">Backend and Frontend Developer |  Javascript Lover</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardorosiles&label=Profile%20views&color=0e75b6&style=flat" alt="ricardorosiles" /> </p>
+
 <div align="center">
   <h3 align="center">You can find me in<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
