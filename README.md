@@ -22,13 +22,12 @@
 <h2 align="center">Biography</h2>
 
 <p align="justify">
-I am studying at the Technological University of Nezahualcoyotl, I am currently 23 years old, I have been doing Backend in the Javascript programming language for 4 years and half a year working with React Js (Hooks) in the frontend part, for the development administration part I have worked with the GitLab, Trello and Taiga tool, I am currently updating my portfolio.
-  
-I have developed Chat-Bots with their own APIs for Facebook and Telegram, Discord, Twitch.
+Cuento con 5 años de experiencia en el desarrollo de aplicaciones y servicios utilizando un enfoque centrado en tecnologías modernas y prácticas ágiles. He trabajado con Node.js, NestJS y Express en la creación de APIs robustas y escalables, tanto monolíticas como bajo una arquitectura de microservicios. Además, tengo experiencia implementando contenedores con Docker y Kubernetes, optimizando despliegues en entornos de nube como Google Cloud Platform (GCP).
 
-I have been interested in learning Flutter and Dart, to develop mobile applications for both IOS and Android.
+He gestionado bases de datos SQL y NoSQL, con un sólido conocimiento en MySQL, PostgreSQL, DynamoDB y MongoDB, lo que me permite diseñar sistemas eficientes para manejar grandes volúmenes de datos. En el desarrollo frontend, domino frameworks como React, integrando interfaces de usuario dinámicas y altamente funcionales.
 
-Later you will find the tools that I have used throughout my career.
+Mi experiencia incluye desarrollo de APIs REST, GraphQL y WebSockets, así como la implementación de pruebas unitarias y de integración con herramientas como Jest, Mocha y Chai, asegurando la calidad del código. También soy un firme defensor de las buenas prácticas de desarrollo, usando Git para el control de versiones y herramientas de calidad de código como ESLint, Prettier y SonarQube.Cuento con 5 años de experiencia en el desarrollo de aplicaciones y servicios utilizando un enfoque centrado en tecnologías modernas y prácticas ágiles. He trabajado con Node.js, NestJS y Express en la creación de APIs robustas y escalables, tanto monolíticas como bajo una arquitectura de microservicios. Además, tengo experiencia implementando contenedores con Docker y Kubernetes, optimizando despliegues en entornos de nube como Google Cloud Platform (GCP). He gestionado bases de datos SQL y NoSQL, con un sólido conocimiento en MySQL, PostgreSQL, DynamoDB y MongoDB, lo que me permite diseñar sistemas eficientes para manejar grandes volúmenes de datos. En el desarrollo frontend, domino frameworks como React, integrando interfaces de usuario dinámicas y altamente funcionales. Mi experiencia incluye desarrollo de APIs REST, GraphQL y WebSockets, así como la implementación de pruebas unitarias y de integración con herramientas como Jest, Mocha y Chai, asegurando la calidad del código. También soy un firme defensor de las buenas prácticas de desarrollo, usando Git para el control de versiones y herramientas de calidad de código como ESLint, Prettier y SonarQube.
+
 </p>
 
 ---
