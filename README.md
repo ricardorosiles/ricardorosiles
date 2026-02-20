@@ -1,35 +1,133 @@
+👋 Hola, soy Brayan Ricardo Rosiles Sánchez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-# Hola, Soy Brayan Ricardo Rosiles Sanchez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![alt text](https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif) 
-<h3 align="center">Backend and Frontend Developer |  Javascript Lover</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardorosiles&label=Profile%20views&color=0e75b6&style=flat" alt="ricardorosiles" /> </p>
-
-  
-</p>
-
+<h3 align="center">🚀 Senior Full Stack Engineer | Microservices | DDD | Cloud Architect</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardorosiles&label=Profile%20views&color=0e75b6&style=flat" alt="ricardorosiles" /> </p>
 
 <a href="#"><img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"></a>
-<h2 align="center">Biography</h2>
 
-<p align="justify">
-Cuento con 5 años de experiencia en el desarrollo de aplicaciones y servicios utilizando un enfoque centrado en tecnologías modernas y prácticas ágiles. He trabajado con Node.js, NestJS y Express en la creación de APIs robustas y escalables, tanto monolíticas como bajo una arquitectura de microservicios. Además, tengo experiencia implementando contenedores con Docker y Kubernetes, optimizando despliegues en entornos de nube como Google Cloud Platform (GCP).
+🧠 Biography
 
-He gestionado bases de datos SQL y NoSQL, con un sólido conocimiento en MySQL, PostgreSQL, DynamoDB y MongoDB, lo que me permite diseñar sistemas eficientes para manejar grandes volúmenes de datos. En el desarrollo frontend, domino frameworks como React, integrando interfaces de usuario dinámicas y altamente funcionales.
+Ingeniero Full Stack Senior con más de 5 años de experiencia construyendo soluciones empresariales escalables en sectores como fintech, e-commerce, banca, salud y marketplaces.
 
-Mi experiencia incluye desarrollo de APIs REST, GraphQL y WebSockets, así como la implementación de pruebas unitarias y de integración con herramientas como Jest, Mocha y Chai, asegurando la calidad del código. También soy un firme defensor de las buenas prácticas de desarrollo, usando Git para el control de versiones y herramientas de calidad de código como ESLint, Prettier y SonarQube.Cuento con 5 años de experiencia en el desarrollo de aplicaciones y servicios utilizando un enfoque centrado en tecnologías modernas y prácticas ágiles. He trabajado con Node.js, NestJS y Express en la creación de APIs robustas y escalables, tanto monolíticas como bajo una arquitectura de microservicios. Además, tengo experiencia implementando contenedores con Docker y Kubernetes, optimizando despliegues en entornos de nube como Google Cloud Platform (GCP). He gestionado bases de datos SQL y NoSQL, con un sólido conocimiento en MySQL, PostgreSQL, DynamoDB y MongoDB, lo que me permite diseñar sistemas eficientes para manejar grandes volúmenes de datos. En el desarrollo frontend, domino frameworks como React, integrando interfaces de usuario dinámicas y altamente funcionales. Mi experiencia incluye desarrollo de APIs REST, GraphQL y WebSockets, así como la implementación de pruebas unitarias y de integración con herramientas como Jest, Mocha y Chai, asegurando la calidad del código. También soy un firme defensor de las buenas prácticas de desarrollo, usando Git para el control de versiones y herramientas de calidad de código como ESLint, Prettier y SonarQube.
+Mi enfoque está en diseñar sistemas robustos utilizando:
 
-</p>
+🧩 Arquitectura Hexagonal + DDD + Clean Architecture
 
----
+⚙️ Microservicios con NestJS, Node.js y Java Spring Boot
 
+☁️ Cloud (AWS, GCP) con pipelines automatizados
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  
-<a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://jasmine.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  <a href="https://nestjs.com/" target="_blank"> <img src="https://docs.nestjs.com/assets/logo-small.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.paypal.com/mx/home" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Paypal_2014_logo.png" alt="paypal" width="40" height="40"/> </a> 
-<a href="#" target="_blank"> <img src="https://cdn.andro4all.com/files/2021/04/Mejores-bots-Telegram.jpg" alt="bot-telegram" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://cdn.shopify.com/app-store/listing_images/ba8bf84d0f9ae4222730eca1ab6a980b/icon/COKu9ab0lu8CEAE=.png" alt="bot-whats" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKuSMXkOWBgDn9RiQiXdkn3rspbkeHBmszaiy7O_Zo7Llc30750CHTuf2ZNh8bPeVg04o&usqp=CAU" alt="bot-face" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://i.dlpng.com/static/png/468328_preview.png" alt="mongodb" width="50" height="50"/> </a> <a href="https://www.npmjs.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPfhm2vjCdFNIUx9vIzlXaDPMYIoAeqaeHHRA2WlLDhzmqIWwxw5V0XTGh6oVV9G4_A60&usqp=CAU" alt="npm" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Pj8iuTGyVI67tugmXjG948KbHWQaV4f-JDykqb8D0XvjdWKha58wy_j807-QduxcI6o&usqp=CAU" alt="css" width="40" height="40"/> </a> <a href="https://jestjs.io/" target="_blank"> <img src="https://image.pngaaa.com/6/3692006-middle.png" alt="jest" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="jest" width="40" height="40"/> </a> </p>
+🧠 Integración con IA para automatización documental y análisis de datos
 
----
+🔐 Integraciones fiscales y financieras (SAT, CFDI, pagos)
 
+He trabajado en proyectos donde se manejan grandes volúmenes de datos, alta concurrencia y reglas de negocio complejas, siempre enfocado en calidad, escalabilidad y performance.
 
+💼 Experiencia destacada
+🟣 Quantum (Fintech / ERP)
 
+Migración de Odoo v14 → v18
+
+Automatización de facturación, pagos y SAT (CFDI)
+
+Microservicios en NestJS + AWS
+
+Generación de memorándums financieros con IA
+
+🟠 Multiplica – PepsiCo (E-commerce)
+
+Desarrollo de PWA de promociones (Descuentón)
+
+Arquitectura Hexagonal + DDD
+
+Microservicios con PostgreSQL
+
+🔵 Axity – Chedraui (Retail)
+
+Migración JS → TypeScript
+
+Mejora de seguridad y performance
+
+Integración VTEX
+
+🟢 NTT Data (Proyectos internacionales)
+
+App para pacientes con cáncer (USA)
+
+Marketplace de empleos (Green Card)
+
+Plataforma de storage empresarial
+
+Web scraping para inteligencia de mercado
+
+🟡 GFT – Santander (Banca)
+
+Mejora de calidad de código
+
+Migración Angular
+
+Integración de servicios bancarios
+
+🔴 SpringLabs – NOM035
+
+Chatbot multiplataforma (WhatsApp, Telegram, Web)
+
+Dashboard de análisis de estrés laboral
+
+⚙️ Tech Stack
+🖥️ Backend
+
+Node.js • NestJS • Express • Java (Spring Boot) • Python (FastAPI)
+
+🎨 Frontend
+
+React • Angular • Next.js • Vue.js • Tailwind • SCSS
+
+🗄️ Databases
+
+PostgreSQL • MySQL • MongoDB • DynamoDB • Redis • Firebase
+
+☁️ Cloud & DevOps
+
+AWS (S3, Lambda, SQS, SNS, Cognito, API Gateway)
+GCP • Docker • Kubernetes • CI/CD
+
+🧩 Architecture
+
+Microservices • DDD • Hexagonal Architecture • Clean Code • SOLID
+
+📊 Observability
+
+ELK Stack • Prometheus • Grafana
+
+🧪 Testing
+
+Jest • Mocha • Chai • Supertest
+
+🚀 Lo que me diferencia
+
+✔ Diseño arquitecturas escalables desde cero
+✔ Integro sistemas financieros complejos
+✔ Automatizo procesos con IA
+✔ Optimizo costos y performance en cloud
+✔ Enfoque en calidad, seguridad y buenas prácticas
+
+📫 Contacto
+
+📧 ricardo.rosiles97@gmail.com
+
+📱 +52 5515017945 (WhatsApp)
+🐙 GitHub: https://github.com/ricardorosiles
+
+🌐 Portfolio: https://my-portfolio-ricardo-rosiles.vercel.app
+
+💡 Actualmente
+
+Estoy enfocado en construir:
+
+🚀 Plataforma tipo Uber para servicios profesionales
+🏗️ Arquitecturas con microservicios + eventos (SQS, NATS, SNS)
+🧠 Integraciones con IA y automatización
+
+Si quieres colaborar, contratarme o platicar de arquitectura:
+
+👉 Escríbeme, siempre estoy abierto a nuevos retos.
