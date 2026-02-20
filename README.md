@@ -1,6 +1,6 @@
 👋 Hola, soy Brayan Ricardo Rosiles Sánchez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![alt text](https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif) <h3 align="center">Backend and Frontend Developer | Javascript Lover</h3>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ![alt text](https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif)
 
 <h3 align="center">🚀 Senior Full Stack Engineer | Microservices | DDD | Cloud Architect</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardorosiles&label=Profile%20views&color=0e75b6&style=flat" alt="ricardorosiles" /> </p>
 
